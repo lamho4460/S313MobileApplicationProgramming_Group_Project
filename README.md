@@ -1,1 +1,1 @@
-# 313Group_Project
+# Application name: Weather App
